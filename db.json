@@ -14,7 +14,11 @@
           "Type": "SecretTextBox"
         },
         
-  
+        {
+          "Name": "email",
+          "Size": "10",
+          "Type": "email"
+        },
         
         {
           "Name": "Gender",
